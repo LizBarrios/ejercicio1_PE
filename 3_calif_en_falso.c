@@ -1,4 +1,4 @@
-//BARRIOS RETANA LIZETH
+//BARRIOS RETANA LIZETH 372813
 //27-AGO-23
 /*
     Algoritmo que lea 3 calificaciones calcule el promedio del alumno y desplegar:

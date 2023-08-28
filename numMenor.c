@@ -1,4 +1,4 @@
-//BARRIOS RETANA LIZETH
+//BARRIOS RETANA LIZETH 372813
 //27-AGO-23
 //Algoritmo que lea 3 números y desplegar cuál número es el menor y su valor
 //BRL_ACT1_7_932

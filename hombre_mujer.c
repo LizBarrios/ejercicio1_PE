@@ -1,4 +1,4 @@
-//BARRIOS RETANA LIZETH
+//BARRIOS RETANA LIZETH 372813
 //27-AGO-23
 //Algoritmo que a través de opciones (1.- HOMBRE 2.- MUJER ) preguntar al usuario cual es su SEXO y desplegar la leyenda “HOLA, ERES HOMBRE ”, “ HOLA, ERES MUJER”
 //BRL_ACT1_4_932

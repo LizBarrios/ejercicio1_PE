@@ -1,4 +1,4 @@
-//BARRIOS RETANA LIZETH
+//BARRIOS RETANA LIZETH 372813
 //22-AGO-23
 //Es un algoritmo que lee 4 calificaciones de un alumno, calcula y desplega el promedio acompañado de la leyenda APROBADO o REPROBADO
 //BRL_ACT1_3_932

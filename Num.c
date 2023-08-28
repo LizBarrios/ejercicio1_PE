@@ -1,4 +1,4 @@
-//BARRIOS RETANA LIZETH
+//BARRIOS RETANA LIZETH 372813
 //27-AGO-23
 //Es un algoritmo que lee un número entero, y desplegar si el número es “PAR” o “IMPAR”
 //BRL_ACT1_2_932
