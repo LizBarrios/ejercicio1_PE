@@ -31,8 +31,6 @@ int main ()
         num1 = num2;
         num2 = temp;
     }
-
-    // Mostrar los números en orden ascendente
     printf("Los números en orden ascendente son: %.2f, %.2f, %.2f\n", num1, num2, num3);
 
     return 0;
